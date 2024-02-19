@@ -1,6 +1,6 @@
 # Locademia Racing Club
 
-### Description
+### Descripción
 
 #### Se realizó un review de la página web https://locademia.racingclub.com.ar/ donde se generó un reporte completo de todas las incidencias encontradas.
 
