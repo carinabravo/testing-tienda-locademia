@@ -2,7 +2,7 @@
 
 ### Descripción
 
-#### Se realizó un review de la página web https://locademia.racingclub.com.ar/ donde se generó un reporte completo de todas las incidencias encontradas.
+#### Review de página web https://locademia.racingclub.com.ar/ donde se genera reporte completo de todas las incidencias encontradas.
 
 ##### ✔ Casos de prueba.
 
