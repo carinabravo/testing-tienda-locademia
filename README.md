@@ -1,18 +1,16 @@
 # Locademia Racing Club
 
-### Descripción
+## Descripción
 
-#### Review de página web https://locademia.racingclub.com.ar/ donde se genera reporte completo de todas las incidencias encontradas.
+Review de página web https://locademia.racingclub.com.ar/ versión desktop y mobile donde se genera reporte completo de todas las incidencias encontradas.
 
-##### ✔ Casos de prueba.
+✔ Casos de prueba.
 
-##### ✔ Reportes de bugs.
+✔ Reportes de bugs.
 
-##### ✔ Reportes de pruebas.
+✔ Reportes de pruebas.
 
-##### ✔ Pruebas de stress - App utilizada: Lighthouse.
+✔ Pruebas de stress - App utilizada: Lighthouse.
 
-##### ✔ Investigación de API.
+✔ Investigación de API.
 
-
-##### ✔ Página web - versión desktop y mobile.
