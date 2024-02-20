@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Review de página web https://locademia.racingclub.com.ar/ versión desktop y mobile donde se genera reporte completo de todas las incidencias encontradas.
+Review de página web https://locademia.racingclub.com.ar/ versión desktop y mobile, donde se generó un reporte completo de todas las incidencias encontradas.
 
 ✔ Casos de prueba: 5 positivos + evidencias | 5 negativos + evidencias.
 
